@@ -1,0 +1,14 @@
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\bin\Debug\net8.0\Calculator.ConsoleApp.exe
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\bin\Debug\net8.0\Calculator.ConsoleApp.deps.json
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\bin\Debug\net8.0\Calculator.ConsoleApp.runtimeconfig.json
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\bin\Debug\net8.0\Calculator.ConsoleApp.dll
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\bin\Debug\net8.0\Calculator.ConsoleApp.pdb
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.AssemblyInfo.cs
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.dll
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\refint\Calculator.ConsoleApp.dll
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.pdb
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\Calculator.ConsoleApp.genruntimeconfig.cache
+C:\Users\rogal\OneDrive\Desktop\Calculator\Calculator\Calculator.ConsoleApp\obj\Debug\net8.0\ref\Calculator.ConsoleApp.dll
